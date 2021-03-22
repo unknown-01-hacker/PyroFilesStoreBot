@@ -65,7 +65,7 @@ async def start(bot, cmd):
 				if user.status == "kicked":
 					await bot.send_message(
 						chat_id=cmd.from_user.id,
-						text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/linux_repo).",
+						text="Sorry Sir, You are **Banned** to use me. Contact my [Support Group](https://t.me/pruthvi_RJ_Group).",
 						parse_mode="markdown",
 						disable_web_page_preview=True
 					)
@@ -73,7 +73,7 @@ async def start(bot, cmd):
 			except UserNotParticipant:
 				await bot.send_message(
 					chat_id=cmd.from_user.id,
-					text="**Please Join My Updates Channel to use this Bot!**\n\nDue to Overload, Only Channel Subscribers can use the Bot!",
+					text="**Please Join My Updates Channel to use this Bot!**\n\nDue to Overload, Only Channel Subscribers can use the Bot! \n Join and press the **Refresh button**",
 					reply_markup=InlineKeyboardMarkup(
 						[
 							[
@@ -102,8 +102,8 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
-						InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+						InlineKeyboardButton("Bot Group", url="https://t.me/pruthvi_RJ_Group"),
+						InlineKeyboardButton("Bot Channel", url="https://t.me/Pruthvi_RJ_Movies")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -318,8 +318,8 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
-						InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+						InlineKeyboardButton("Bot Group", url="https://t.me/pruthvi_RJ_Group"),
+						InlineKeyboardButton("Bot Channel", url="https://t.me/Pruthvi_RJ_Movies")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -358,7 +358,7 @@ async def button(bot, cmd: CallbackQuery):
 				return
 			except Exception:
 				await cmd.message.edit(
-					text="Something went Wrong. Contact my [Support Group](https://t.me/linux_repo).",
+					text="Something went Wrong. Contact my [Support Group](https://t.me/pruthvi_RJ_Group).",
 					parse_mode="markdown",
 					disable_web_page_preview=True
 				)
@@ -370,8 +370,8 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("Support Group", url="https://t.me/linux_repo"),
-						InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+						InlineKeyboardButton("Bot Group", url="https://t.me/pruthvi_RJ_Group"),
+						InlineKeyboardButton("Bot Channel", url="https://t.me/Pruthvi_RJ_Movies")
 					],
 					[
 						InlineKeyboardButton("About Bot", callback_data="aboutbot"),
