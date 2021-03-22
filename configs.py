@@ -30,7 +30,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📢 **Bot channel:** [Pruthvi Rj Movies](https://t.me/Pruthvi_RJ_Movies)
 """
-	ABOUT_GROUP_TEXT = f"""
+	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @🔓
 
 This bot is Made for [Pruthvi Rj Movies](t.me/Pruthvi_RJ_Movies) 
