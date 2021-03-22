@@ -24,20 +24,21 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @🔓
 
-👥 **Support Group:** [Linux Repositories](https://t.me/linux_repo)
+👥 **Bot Group:** [Pruthvi Rj Group](https://t.me/pruthvi_RJ_Group)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+📢 **Bot channel:** [Pruthvi Rj Movies](https://t.me/Pruthvi_RJ_Movies)
 """
-	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+	ABOUT_GROUP_TEXT = f"""
+🧑🏻‍💻 **Developer:** @🔓
 
-Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
+This bot is Made for [Pruthvi Rj Movies](t.me/Pruthvi_RJ_Movies) 
 
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+Also remember that Owner will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[Join Channel](t.me/Pruthvi_RJ_Movies)
+[Join Group](t.me/pruthvi_RJ_Group) 
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
