@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @pruthvi_rj_group
 
 import os
 
@@ -24,14 +24,14 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @🔓
+🧑🏻‍💻 **Developer:** @Kannada_Admin
 
 👥 **Bot Group:** [Pruthvi Rj Group](https://t.me/pruthvi_RJ_Group)
 
 📢 **Bot channel:** [Pruthvi Rj Movies](https://t.me/Pruthvi_RJ_Movies)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @🔓
+🧑🏻‍💻 **Developer:** @Kannada_Admin
 
 This bot is Made for [Pruthvi Rj Movies](t.me/Pruthvi_RJ_Movies) 
 
